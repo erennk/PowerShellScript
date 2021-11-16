@@ -1,2 +1,2 @@
 # PowerShellScript
-Unpin from taskbar with powershell script
+You can unpin any app from taskbar with this powershell script.
